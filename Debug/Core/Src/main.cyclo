@@ -1,0 +1,13 @@
+../Core/Src/main.cpp:39:16:int __io__putchar(int)	1
+../Core/Src/main.cpp:45:16:int _write(int, const char*, int)	2
+../Core/Src/main.cpp:57:6:void vGreenLedControllerTask(void*)	1
+../Core/Src/main.cpp:67:5:int main()	1
+../Core/Src/main.cpp:92:6:void SystemClock_Config()	3
+../Core/Src/main.cpp:139:13:void MX_USART2_UART_Init()	2
+../Core/Src/main.cpp:160:13:void MX_GPIO_Init()	1
+../Core/Src/main.cpp:185:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	2
+../Core/Src/main.cpp:196:6:void Error_Handler()	1
+../Core/Inc/LED.h:14:5:led_template<port_type, pin_type>::led_template(port_type, pin_type) [with port_type = GPIO_TypeDef*; pin_type = short unsigned int]	1
+../Core/Inc/LED.h:25:10:void led_template<port_type, pin_type>::toggle() const [with port_type = GPIO_TypeDef*; pin_type = short unsigned int]	1
+../Core/Src/main.cpp:205:1:void __static_initialization_and_destruction_0(int, int)	3
+../Core/Src/main.cpp:205:1:cpp)	1
